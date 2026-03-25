@@ -1,0 +1,5 @@
+{
+  "name": "Dynapharm Distributor Points Calculator",
+  "description": "A tool for Dynapharm distributors to calculate total BVs from product purchases and check qualification status.",
+  "requestFramePermissions": []
+}
